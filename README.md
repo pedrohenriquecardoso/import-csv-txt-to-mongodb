@@ -30,5 +30,5 @@ This is a script in Node.js to import txt or csv file containing data to MongoDB
 7. Run the application.
 
     ```sh
-    npm run dev
+    node import.js
     ```
